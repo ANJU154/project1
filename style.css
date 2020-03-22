@@ -1,0 +1,100 @@
+.light{
+  color:#A9A9A9;
+  font-family:"Arial Verdana";
+  text-align: center;
+
+}
+body{
+  margin-top: 75px;
+  font-family:"Arial Verdana";
+  text-align: center;
+  background-color:#FFFFFF;
+
+
+}
+h6
+{
+  color:#A9A9A9;
+  font-size: 15px;
+  white-space: pre-line;
+}
+.container1{
+  background-color:#FFFFFF;
+  width:22%;
+  margin-left: 37%;
+  margin-right: 0;
+  text-align: justify;
+  padding-left: 2%;
+  padding-top: 0.25%;
+  padding-right: 2%;
+}
+.line1{
+  border-top: 4px solid red;
+  margin-bottom: 0;
+  width: 22%;
+  margin-left: 37%;
+}
+.container2{
+  background-color:#FFFFFF;
+  width:22%;
+  margin-left: 10%;
+  margin-right: 0;
+  text-align: justify;
+  padding-left: 2%;
+  padding-top: 0.25%;
+  padding-right: 2%;
+}
+  .line2{
+    border-top: 4px solid Cyan;
+    margin-bottom: 0;
+    width: 22%;
+    margin-left: 10%;
+    margin-top: -5%;
+  }
+
+
+.container3{
+  background-color:#FFFFFF;
+  width:22%;
+
+  margin-left: 64%;
+  margin-right: 0;
+  text-align: justify;
+  padding-left: 2%;
+  padding-top: 0.25%;
+  padding-right: 2%;
+}
+.line3{
+  border-top: 4px solid Blue;
+  margin-bottom: 0;
+  width: 22%;
+  margin-left: 64%;
+  margin-top: -12%;
+}
+.container4{
+  background-color:#FFFFFF;
+  width:22%;
+  margin-left: 37%;
+  margin-right: 0;
+ margin-top: 0;
+  text-align: justify;
+  padding-left: 2%;
+  padding-top: 0.25%;
+  padding-right: 2%;
+}
+
+
+
+.line4{
+  border-top: 4px solid Orange;
+
+  width: 22%;
+ padding-top: 0;
+  margin-top:-5%;
+  margin-left: 37%;
+}
+div
+{
+  box-shadow: 7px 5px 5px -3px rgba(92,92,92,0.4), 0px 5px 10px rgba(92,92,92,0.6), -7px 5px 5px -3px rgba(92,92,92,0.4);
+  box-shadow: -5px #F1F3F4;
+}
